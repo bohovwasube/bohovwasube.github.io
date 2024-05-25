@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohovwasube.github.io/sitemap.xml
